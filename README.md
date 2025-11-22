@@ -1,7 +1,7 @@
 
 # CS2 RCON Daemon
 
-A simple RCON daemon client for Counter Strike 2.
+A simple RCON daemon client for Counter Strike 2. Designed to be used with a PHP web control panel.
 
 
 ## Acknowledgements
