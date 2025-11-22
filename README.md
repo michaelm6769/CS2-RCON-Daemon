@@ -3,7 +3,7 @@
 
 A simple RCON daemon client for Counter Strike 2 written in Visual Basic. Designed to be used with a PHP web control panel.
 
-Control Panel Repo: (https://github.com/michaelm6769/CS-RCON-PHP-Console)
+Control Panel Repo: (https://github.com/michaelm6769/CS2-RCON-PHP-Console)
 
 
 ## Acknowledgements
