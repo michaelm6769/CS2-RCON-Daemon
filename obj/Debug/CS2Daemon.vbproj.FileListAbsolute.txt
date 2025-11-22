@@ -1,0 +1,11 @@
+C:\VS Projects\CS2Daemon\bin\Debug\CS2Daemon.exe.config
+C:\VS Projects\CS2Daemon\bin\Debug\CS2Daemon.exe
+C:\VS Projects\CS2Daemon\bin\Debug\CS2Daemon.pdb
+C:\VS Projects\CS2Daemon\bin\Debug\CS2Daemon.xml
+C:\VS Projects\CS2Daemon\obj\Debug\CS2Daemon.vbproj.AssemblyReference.cache
+C:\VS Projects\CS2Daemon\obj\Debug\CS2Daemon.Resources.resources
+C:\VS Projects\CS2Daemon\obj\Debug\CS2Daemon.vbproj.GenerateResource.cache
+C:\VS Projects\CS2Daemon\obj\Debug\CS2Daemon.vbproj.CoreCompileInputs.cache
+C:\VS Projects\CS2Daemon\obj\Debug\CS2Daemon.exe
+C:\VS Projects\CS2Daemon\obj\Debug\CS2Daemon.xml
+C:\VS Projects\CS2Daemon\obj\Debug\CS2Daemon.pdb

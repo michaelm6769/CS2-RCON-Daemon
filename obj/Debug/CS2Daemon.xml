@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CS2Daemon
+</name>
+</assembly>
+<members>
+<member name="T:CS2Daemon.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CS2Daemon.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CS2Daemon.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CS2Daemon.RconPackets.BuildAuthPacket(System.String)">
+ <summary>
+ Builds an AUTH packet
+ </summary>
+</member>
+<member name="M:CS2Daemon.RconPackets.BuildCommandPacket(System.String)">
+ <summary>
+ Build a command execution packet
+ </summary>
+</member>
+</members>
+</doc>
